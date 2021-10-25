@@ -1,6 +1,6 @@
 {
   "name": "qwd-react-native-picker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "qwd",
   "main": "index.js",
   "types": "index.d.ts",
@@ -13,5 +13,5 @@
   },
   "author": "zhinian1024",
   "license": "MIT",
-  "homepage": "git remote add origin git@github.com:gaowei1012/react-native-select-picker.git"
+  "homepage": "https://github.com/gaowei1012/react-native-select-picker.git"
 }
