@@ -1,6 +1,6 @@
 {
   "name": "qwd-react-native-picker",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "执念",
   "main": "index.js",
   "types": "index.d.ts",
